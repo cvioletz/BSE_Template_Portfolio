@@ -1,8 +1,8 @@
 ﻿# Smart Mirror
 My goal is to use a raspberry pi to program a screen in order to make a smart mirror. 
 It will contain information such at the time, date, upcoming calendar events and the weather in the area. Additionally, LED lights around the boarder of the miror will change color from warm to cool based on the temprature.
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
+
+
 | Cydnee | Hackley Upper School | Mechanical/Electrical Engineering | Incoming Sophmore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)

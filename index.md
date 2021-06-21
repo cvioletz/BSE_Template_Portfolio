@@ -5,7 +5,7 @@ It will contain information such at the time, date, upcoming calendar events and
 
 | Cydnee | Hackley Upper School | Mechanical/Electrical Engineering | Incoming Sophmore
 
-![Relevant Image]()
+![Rasberry Pi Setup]()
   
 # Final Milestone
 
@@ -16,7 +16,8 @@ My Second milstone is adding my unique modules.
 
 [![Third Milestone]
 # First Milestone
-  
+
+![Rasberry Pi Setup](![IMG_3528](https://user-images.githubusercontent.com/86081915/122816076-46d89280-d2a4-11eb-9aeb-4df25a544944.jpeg)
   
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my monitor. The heatsinks the sd card with the linux operating system were added to ensure that the Raspberry Pi was working. Then I had to activate SSH which allows me to remotly acess the terminal and VNC which allows me to see and control my monitor from my computer. I did run into an issue where I had no working keyboard and just a mouse but I was able to overcome that with alot of copying and pasting. I also have a miror design.
 

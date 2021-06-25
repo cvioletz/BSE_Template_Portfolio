@@ -13,7 +13,8 @@ It will contain information such at the time, date, upcoming calendar events and
 Description
 
 # Second Milestone
-My Second milstone is adding my unique modules.
+
+My Second milstone was finishing adding all of my unique modules. To add all the information I wanted to my monitor, I used the react app to write diffrent sections of code in Javascript making each module function. My mirror displays the date, time, weather, and it features changing LED lights according to the numerical temprature (warm colors for warm weather and cooler colors for cold weather). This milestone tool the longest time by far because I basically made the modulles from scratch and I had little to no expiriance with coding something like this.
 
 [![Second Milestone]
 

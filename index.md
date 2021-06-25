@@ -3,7 +3,7 @@ My goal is to use a raspberry pi to program a screen in order to make a smart mi
 It will contain information such at the time, date, upcoming calendar events and the weather in the area. Additionally, LED lights around the boarder of the miror will change color from warm to cool based on the temprature.
 
 
-| Cydnee | Hackley Upper School | Mechanical/Electrical Engineering | Incoming Sophmore
+| Cydnee | Hackley Upper School | Electrical Engineering | Incoming Sophmore
 
 ![Rasberry Pi Setup]()
   

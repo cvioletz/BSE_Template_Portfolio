@@ -9,14 +9,16 @@ It will contain information such at the time, date, upcoming calendar events and
   
 # Final Milestone
 
+My third and final milestone was assembling my mirror. To do so I used a hot glue gun to attatch the monitor to the glass and then I proceeded to tape my LED lights along the edge. What was supposed to be my easiest and quickest milestone turned into a disaster when my raspberry pi stopped working. Luckily i was able to order a new one just in time and I spent hours restoring my project to its original state. I am proud of everything I accomplished.
+
 [![Final Milestone]
 Description
 
 # Second Milestone
 
-My Second milstone was finishing adding all of my unique modules. To add all the information I wanted to my monitor, I used the react app to write diffrent sections of code in Javascript making each module function. My mirror displays the date, time, weather, and it features changing LED lights according to the numerical temprature (warm colors for warm weather and cooler colors for cold weather). This milestone took the longest time by far because I basically made the modulles from scratch and I had little to no expiriance with coding something like this.
+My second milstone was finishing adding all of my unique modules. To add all the information I wanted to my monitor, I used the react app to write diffrent sections of code in Javascript making each module function. My mirror displays the date, time, weather, and it features changing LED lights according to the numerical temprature (warm colors for warm weather and cooler colors for cold weather). This milestone took the longest time by far because I basically made the modules from scratch and I had little to no expiriance with coding something like this.
 
-[![Second Milestone]
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625100476/video_to_markdown/images/youtube--RWLcB-56WDg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=RWLcB-56WDg "Cydnee Milestone 2")
 
 # First Milestone
 

@@ -5,7 +5,7 @@ It will contain information such at the time, date, upcoming calendar events and
 
 | Cydnee | Hackley Upper School | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image]()
+![Headstone Image](file:///Users/cydnee.copeland/Desktop/IMG_3596.jpeg)
   
 # Final Milestone
 
